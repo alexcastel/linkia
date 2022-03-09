@@ -2,7 +2,7 @@ import java.util.Scanner;
 
 public class Factorial {
 	/**
-	 * CLASE FACTORIAL
+	 * CLASE FACTORIAL- primera actualizacion
 	 * @param args
 	 */
 
