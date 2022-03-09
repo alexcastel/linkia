@@ -9,7 +9,7 @@ public class Factorial {
 public static void main(String[] args) {
 		
 		Scanner scanner = new Scanner(System.in);
-		int n = 0;
+		int n = 0; //declaro variable
 		do {
 			System.out.print("Introducir un numero (n>=0): ");
 			n = scanner.nextInt();
