@@ -1,6 +1,10 @@
 import java.util.Scanner;
 
 public class Factorial {
+	/**
+	 * CLASE FACTORIAL
+	 * @param args
+	 */
 
 public static void main(String[] args) {
 		
